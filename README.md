@@ -1,2 +1,2 @@
-# excursion
+# Excursion
 Codecademy off-platform project.
